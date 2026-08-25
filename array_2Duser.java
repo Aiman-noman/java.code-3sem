@@ -25,8 +25,10 @@ class array_2Duser {
 
         for(int i = 0; i < rows; i++) {
             for(int j = 0; j < columns; j++) {
-                System.out.println(a[i][j]);
+                System.out.print(a[i][j]+" ");
             }
+                System.out.println();
+
         }
     }
 }
