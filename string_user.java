@@ -13,6 +13,6 @@ class string_user{
         System.out.println("String ends with hi "+s.endsWith("hi"));
         System.out.println("String contsins "+s.contains("aiman"));
         System.out.println("Index of H in the string"+s.indexOf("H"));
-        System.out.println("Substring from 0 to 7 is "+s.substring(0,6));
+        System.out.println("Substring from 0 to 7 is "+s.substring(0,7));
     }
 }
