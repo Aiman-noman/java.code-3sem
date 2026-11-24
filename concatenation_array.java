@@ -24,6 +24,5 @@ public class concatenation_array {
             System.out.print(ans[i] + " ");
         }
 
-        input.close();
     }
 }
